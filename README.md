@@ -10,7 +10,8 @@
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexandre-Nog-Oliveira&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Nog-Oliveira&layout=compact&langs_count=7&theme=dracula"/>
   </div>
-   ### Conecte comigo 
+  
+   ## Conecte comigo 
   <div>
     <a href="https://www.linkedin.com/in/alexandre-oliveira-a63a431b6" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-        badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
