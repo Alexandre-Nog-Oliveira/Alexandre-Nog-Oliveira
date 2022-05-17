@@ -1,7 +1,7 @@
 ### Olá, Sou o Alexandre 🖐 
 ## Sou estudante e desenvolvedor!!
 
-→ Minhas competências:
+→ #Minhas competências:
   - Desenvolvimento front-end com ReactJs <img align="center" alt="Alexandre-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   - Desenvolvimento Mobile com React-Native <img align="center" alt="Alexandre-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   - Desenvolvimento Back-end com NodeJs/C# <img align="center" alt="Alexandre-node" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> <img align="center" alt="Alexandre-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
