@@ -1,5 +1,5 @@
 ### Olá, Sou o Alexandre 🖐 
-## Sou estudante e desenvolvedor!!
+
 
 → Minhas competências:
   - Desenvolvimento front-end com ReactJs <img align="center" alt="Alexandre-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
